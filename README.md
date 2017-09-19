@@ -1,1 +1,1 @@
-This is a C program which implements a basic encryption algorithm. The aim of this project is to implement a modularised design via functions to ultimately create code which is as accessible as possible for review and future additions to the code.
+To Be Added.
